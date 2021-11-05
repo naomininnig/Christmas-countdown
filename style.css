@@ -119,9 +119,9 @@ body{
 
 
 
-@media screen and (min-width: 480px){
+@media screen and (min-width: 350px){
     .content h1{
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     .time-show{
         flex-direction: row;
